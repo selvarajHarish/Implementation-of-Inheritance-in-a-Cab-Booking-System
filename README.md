@@ -55,3 +55,7 @@ The implementation demonstrates:
 - Create a static method:
   java
   public static void bookingDetails(Cab cab)
+
+  ** Technologies Used **
+- Java
+- OOP Concepts (Inheritance, Polymorphism, Method Overriding)
