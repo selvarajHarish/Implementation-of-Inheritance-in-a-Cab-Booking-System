@@ -41,7 +41,7 @@ The implementation demonstrates:
   - Price per km (specific to each cab type)
 - Use constructors to initialize both parent and child class attributes.
 
-### 📍 Step 3: Implement the Booking Process (`CabDriver.java`)
+### Step 3: Implement the Booking Process (`CabDriver.java`)
 
 - Take **user input**:
   - Select cab type (Mini, Sedan, Luxury)
@@ -50,7 +50,7 @@ The implementation demonstrates:
 - Instantiate the corresponding cab class.
 - Call the generalized method `bookingDetails()` to display the details.
 
-### 📍 Step 4: Implement Generalized Booking Method (`OLA.java`)
+### Step 4: Implement Generalized Booking Method (`OLA.java`)
 
 - Create a static method:
   java
