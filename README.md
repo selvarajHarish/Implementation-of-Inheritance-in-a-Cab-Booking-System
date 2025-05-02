@@ -56,6 +56,6 @@ The implementation demonstrates:
   java
   public static void bookingDetails(Cab cab)
 
-  ** Technologies Used **
+## Technologies Used
 - Java
 - OOP Concepts (Inheritance, Polymorphism, Method Overriding)
