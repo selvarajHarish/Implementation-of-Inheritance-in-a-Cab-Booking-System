@@ -1,9 +1,9 @@
 # Implementation-of-Inheritance-in-a-Cab-Booking-System
-# 🚕 Cab Booking System using Inheritance
+# Cab Booking System using Inheritance
 
 This project is a Java-based **Cab Booking System** that demonstrates the core object-oriented programming concepts of **inheritance, method overriding, and polymorphism**. It allows users to book different types of cabs (Mini, Sedan, Luxury) and view their booking details.
 
-## 🎯 Objective
+## Objective
 
 The objective of this task is to design and implement a cab booking system using inheritance in Java.  
 The system allows users to:
@@ -17,7 +17,6 @@ The implementation demonstrates:
 - Inheritance
 - Method overriding
 - Polymorphism
-
 
 ## Steps to Implement the Task
 
